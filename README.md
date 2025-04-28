@@ -1,2 +1,2 @@
 # Amazon-Clone
-https://shuvajitdn.github.io/Amazon-Clone/
+https://shuvajit-amazon-clone.netlify.app/
